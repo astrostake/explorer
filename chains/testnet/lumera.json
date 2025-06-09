@@ -6,11 +6,11 @@
     "coin_type": 118,
     "min_tx_fee": 200,
     "addr_prefix": "lumerad",
-    "logo": "/logos/lumera-protocol.png",
+    "logo": "/logos/lumera-protocol.jpg",
     "assets": [{
         "base": "ulumera",
         "symbol": "LUM",
         "exponent": 6,
-        "logo": "/logos/lumera-protocol.png"
+        "logo": "/logos/lumera-protocol.jpg"
     }]
 }
