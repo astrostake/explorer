@@ -1,0 +1,16 @@
+{
+    "chain_name": "lumera",
+    "api": ["https://lumera-testnet-api.astrostake.xyz"],
+    "rpc": ["https://lumera-testnet-rpc.astrostake.xyz"],
+    "sdk_version": "v0.47.9",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "lumerad",
+    "logo": "/logos/lumera-protocol.png",
+    "assets": [{
+        "base": "ulumera",
+        "symbol": "LUM",
+        "exponent": 6,
+        "logo": "/logos/lumera-protocol.png"
+    }]
+}
