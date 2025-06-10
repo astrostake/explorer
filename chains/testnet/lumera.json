@@ -1,16 +1,16 @@
 {
-    "chain_name": "lumera-testnet-1",
+    "chain_name": "Lumera",
     "api": ["https://lumera-testnet-api.astrostake.xyz"],
     "rpc": ["https://lumera-testnet-rpc.astrostake.xyz"],
     "sdk_version": "v0.47.9",
     "coin_type": 118,
     "min_tx_fee": 200,
     "addr_prefix": "lumera",
-    "logo": "/logos/lumera-protocol.jpg",
+    "logo": "https://testnet.astrostake.xyz/logos/lumera-protocol.jpg",
     "assets": [{
         "base": "ulume",
         "symbol": "LUME",
         "exponent": 6,
-        "logo": "/logos/lumera-protocol.jpg"
+        "logo": "https://testnet.astrostake.xyz/logos/lumera-protocol.jpg"
     }]
 }
