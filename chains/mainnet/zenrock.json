@@ -1,0 +1,30 @@
+{
+    "chain_name": "zenrock",
+    "registry_name": "zenrock",
+    "api": [
+        {
+            "provider": "AstroStake",
+            "address": "https://zenrock-mainnet-api.astrostake.xyz"
+        }
+    ],
+    "rpc": [
+        {
+            "provider": "AstroStake",
+            "address": "https://zenrock-mainnet-rpc.astrostake.xyz"
+        }
+    ],
+    "sdk_version": "0.50.0",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "zenrock",
+    "logo": "/logos/zenrock.svg",
+    "assets": [
+        {
+            "base": "urock",
+            "symbol": "ROCK",
+            "exponent": "6",
+            "coingecko_id": "zenrock",
+            "logo": "https://testnet.astrostake.xyz/logos/zenrock.jpg"
+        }
+    ]
+}
