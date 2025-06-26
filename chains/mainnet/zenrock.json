@@ -17,14 +17,14 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "zenrock",
-    "logo": "/logos/zenrock.svg",
+    "logo": "https://testnet.astrostake.xyz/logos/zenrock.png",
     "assets": [
         {
             "base": "urock",
             "symbol": "ROCK",
             "exponent": "6",
             "coingecko_id": "zenrock",
-            "logo": "https://testnet.astrostake.xyz/logos/zenrock.jpg"
+            "logo": "https://testnet.astrostake.xyz/logos/zenrock.png"
         }
     ]
 }
