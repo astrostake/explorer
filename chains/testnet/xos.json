@@ -1,0 +1,16 @@
+{
+    "chain_name": "xos",
+    "api": ["https://xos-testnet-api.astrostake.xyz"],
+    "rpc": ["https://xos-testnet-rpc.astrostake.xyz"],
+    "sdk_version": "v0.47.9",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "xos",
+    "logo": "https://testnet.astrostake.xyz/logos/xos.jpg",
+    "assets": [{
+        "base": "axos",
+        "symbol": "XOS",
+        "exponent": 18,
+        "logo": "https://testnet.astrostake.xyz/logos/xos.jpg"
+    }]
+}
