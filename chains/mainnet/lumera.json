@@ -1,0 +1,16 @@
+{
+    "chain_name": "lumera",
+    "api": ["https://lumera-mainnet-api.astrostake.xyz"],
+    "rpc": ["https://lumera-mainnet-rpc.astrostake.xyz"],
+    "sdk_version": "v0.47.9",
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "lumera",
+    "logo": "https://mainnet.astrostake.xyz/logos/lumera-protocol.jpg",
+    "assets": [{
+        "base": "ulume",
+        "symbol": "LUME",
+        "exponent": 6,
+        "logo": "https://mainnet.astrostake.xyz/logos/lumera-protocol.jpg"
+    }]
+}
